@@ -14,7 +14,7 @@ The system allows users to dynamically adjust environmental conditions and insta
 
 After deployment your link will look like:
 
-https://aswinev48-solar-power-detection.streamlit.app
+[https://aswinev48-solar-power-detection.streamlit.app](https://aswinev48-solar-power-detection-mt2t6kn5xnjwwgqgeza6qk.streamlit.app/)
 
 The application runs entirely in the browser and allows users to interact with prediction sliders without installing any software.
 
